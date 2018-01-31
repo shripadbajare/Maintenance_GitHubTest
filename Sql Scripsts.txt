@@ -1,0 +1,1 @@
+create table xyz(asdf type, hgfdsg type, rtasdfa type);
